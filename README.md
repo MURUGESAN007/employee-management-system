@@ -95,7 +95,19 @@ employee-management-system
 
 ### 🔹 Get All Employees API
 
+![Save API](Screenshots/getAllEmployees.png)
+
+### 🔹 Get By Id API
+
+![Save API](Screenshots/fetchById.png)
+
+### 🔹 Group By Role API
+
+![Save API](Screenshots/groupByRole.png)
+
 ### 🔹 Database Table
+
+![Save API](Screenshots/database.png)
 
 ---
 
