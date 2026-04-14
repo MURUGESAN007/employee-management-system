@@ -91,7 +91,7 @@ employee-management-system
 
 ### 🔹 Save Employee API
 
-![Save API](Screenshots/saveEmployee-api.png)
+![Save API]([Screenshots/saveEmployee-api.png](https://github.com/MURUGESAN007/employee-management-system/blob/main/Screenshots/saveEmployee.png))
 
 ### 🔹 Get All Employees API
 
