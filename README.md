@@ -91,7 +91,7 @@ employee-management-system
 
 ### 🔹 Save Employee API
 
-![Save API](saveEmmployee-api.png)
+![Save API](Screenshots/saveEmployee-api.png)
 
 ### 🔹 Get All Employees API
 
